@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template" target-language="fr">
+    <body>
+      <trans-unit id="1977709151892938511" datatype="html">
+        <source>Website under construction</source>
+        <target>Site web en construction</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/building-page/building-page.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <note priority="1" from="description">Building title</note>
+      </trans-unit>
+      <trans-unit id="3714699165264220663" datatype="html">
+        <source>We are currently working on the website. Thanks for your patience.</source>
+        <target>Nous travaillons actuellement sur le site web. Merci de votre patience.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/building-page/building-page.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <note priority="1" from="description">Building description</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

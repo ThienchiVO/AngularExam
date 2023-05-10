@@ -1,0 +1,35 @@
+:host {
+  height: 100vh;
+  width: 100vw;
+  background-color: #f4d74a;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: center;
+
+  .building-page-title {
+    display: flex;
+    justify-content: center;
+  }
+
+  .building-page-description {
+    display: flex;
+    justify-content: center;
+  }
+
+  #top-warning-form {
+    top: 0;
+    background-image : url(../../assets/svg/Warning_mark.svg);
+    position: fixed;
+    height: 5vh;
+    width: 100vw;
+  }
+
+  #bottom-warning-form {
+    bottom: 0;
+    background-image : url(../../assets/svg/Warning_mark.svg);
+    position: fixed;
+    height: 5vh;
+    width: 100vw;
+  }
+}
